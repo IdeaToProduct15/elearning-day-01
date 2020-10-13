@@ -1,4 +1,4 @@
-# elearning-day1
+# elearning-day-01
 
 This repo represents the checkpoing of day 1 from the book XXX
 
