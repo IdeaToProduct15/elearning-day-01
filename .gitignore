@@ -1,0 +1,13 @@
+elearning-mobile-ui/node_modules/**/*
+elearning-mobile-ui/.expo/*
+elearning-mobile-ui/npm-debug.*
+elearning-mobile-ui/*.jks
+elearning-mobile-ui/*.p8
+elearning-mobile-ui/*.p12
+elearning-mobile-ui/*.key
+elearning-mobile-ui/*.mobileprovision
+elearning-mobile-ui/*.orig.*
+elearning-mobile-ui/web-build/
+
+# macOS
+.DS_Store
